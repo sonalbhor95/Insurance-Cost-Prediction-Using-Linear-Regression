@@ -1,7 +1,7 @@
 # Medical-Cost-Prediction-Using-Linear-Regression
 
 
-The Medical Cost Personal dataset from Kaggle contains data related to the healthcare costs incurred by individuals. It includes information on personal attributes such as age, sex, BMI (Body Mass Index), number of dependents, smoking habits, and region of residence, alongside the associated insurance charges. Can you accurately predict insurance costs? <li>
+The Medical Cost Personal dataset from Kaggle contains data related to the healthcare costs incurred by individuals. It includes information on personal attributes such as age, sex, BMI (Body Mass Index), number of dependents, smoking habits, and region of residence, alongside the associated insurance charges. Can you accurately predict insurance costs?
 
 Key Features:<li>
 Age: The age of the individual.<li>
