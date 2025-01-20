@@ -5,10 +5,10 @@ The Medical Cost Personal dataset from Kaggle contains data related to the healt
 
 Key Features:
 
-Age: The age of the individual.
-Sex: Gender of the individual (male/female).
-BMI: A measure of body fat based on height and weight.
-Children: Number of dependents.
-Smoker: Whether the individual is a smoker or non-smoker.
-Region: The geographical region (e.g., southwest, southeast).
-Charges: The total medical costs charged to the individual.
+Age: The age of the individual.<li>
+Sex: Gender of the individual (male/female).<li>
+BMI: A measure of body fat based on height and weight.<li>
+Children: Number of dependents.<li>
+Smoker: Whether the individual is a smoker or non-smoker.<li>
+Region: The geographical region (e.g., southwest, southeast).<li>
+Charges: The total medical costs charged to the individual.<li>
